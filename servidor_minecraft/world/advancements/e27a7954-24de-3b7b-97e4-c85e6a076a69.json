@@ -9,6 +9,7 @@
     "criteria": {
       "minecraft:taiga": "2025-07-21 01:41:15 +0000",
       "minecraft:windswept_hills": "2025-07-21 01:39:39 +0000",
+      "minecraft:beach": "2025-07-22 01:33:42 +0000",
       "minecraft:swamp": "2025-07-21 01:41:23 +0000",
       "minecraft:cold_ocean": "2025-07-21 00:34:26 +0000",
       "minecraft:forest": "2025-07-21 01:36:17 +0000",
@@ -608,6 +609,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-07-21 23:31:50 +0000",
+      "cooked_mutton": "2025-07-22 01:37:09 +0000",
       "bread": "2025-07-21 00:43:04 +0000",
       "dried_kelp": "2025-07-21 00:39:19 +0000"
     },
@@ -2116,6 +2118,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-07-22 01:39:27 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_spruce_sign_item": {
     "criteria": {
       "has_sign": "2025-07-22 00:15:58 +0000"
@@ -2149,6 +2157,12 @@
   "securitycraft:recipes/misc/portable_tune_player": {
     "criteria": {
       "has_redstone": "2025-07-21 23:55:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-07-22 01:39:27 +0000"
     },
     "done": true
   },
@@ -2305,6 +2319,12 @@
   "securitycraft:recipes/misc/cage_trap": {
     "criteria": {
       "has_redstone": "2025-07-21 23:55:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-07-22 01:39:27 +0000"
     },
     "done": true
   },

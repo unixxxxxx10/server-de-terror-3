@@ -620,6 +620,8 @@
       "minecraft:skeleton": "2025-07-21 01:29:42 +0000",
       "minecraft:spider": "2025-07-21 01:11:42 +0000",
       "minecraft:creeper": "2025-07-21 01:35:50 +0000",
+      "minecraft:slime": "2025-07-22 01:41:10 +0000",
+      "minecraft:witch": "2025-07-22 01:45:06 +0000",
       "minecraft:zombie": "2025-07-21 00:39:52 +0000"
     },
     "done": false
@@ -2283,6 +2285,12 @@
   "securitycraft:recipes/decorations/secret_acacia_sign_item": {
     "criteria": {
       "has_sign": "2025-07-22 00:15:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-07-22 01:44:54 +0000"
     },
     "done": true
   },

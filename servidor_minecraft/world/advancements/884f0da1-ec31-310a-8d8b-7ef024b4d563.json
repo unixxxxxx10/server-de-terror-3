@@ -2882,6 +2882,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-07-22 02:50:25 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_cobblestone_stairs": {
     "criteria": {
       "has_block": "2025-07-22 02:36:42 +0000"
@@ -2897,6 +2903,24 @@
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2025-07-22 02:24:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-07-22 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-07-22 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-07-22 02:50:25 +0000"
     },
     "done": true
   },
@@ -2918,6 +2942,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-22 02:50:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/furnace_minecart": {
     "criteria": {
       "has_minecart": "2025-07-22 02:24:53 +0000"
@@ -2936,9 +2966,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-22 02:50:25 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_cobblestone_wall": {
     "criteria": {
       "has_block": "2025-07-22 02:36:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-07-22 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-22 02:50:25 +0000"
     },
     "done": true
   },
@@ -2963,6 +3011,12 @@
   "securitycraft:recipes/building_blocks/reinforced_cobblestone_slab": {
     "criteria": {
       "has_block": "2025-07-22 02:36:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-22 02:50:25 +0000"
     },
     "done": true
   },
